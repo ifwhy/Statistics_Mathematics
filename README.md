@@ -1,2 +1,2 @@
-# Data_Science
-Hi Everyone! I currently learn about Basics of Data Science
+# Statistics_Mathematics
+Hi Everyone! I currently learn about Basics of Statistics in Python
